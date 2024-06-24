@@ -17,7 +17,7 @@ This is an e-commerce website built with PHP and Bootstrap. It allows users to b
 
 **Installation**
 
-1. Clone the repository: `git clone https://github.com/maokimkorng/blondie.git`
+1. Clone the repository: `git clone https://github.com/kimkorngmao/blondie.git`
 2. Create a database and tables with SQL script at `helper/tables.sql`
 3. Configure database connection: Edit `server/connection.php` to provide your database credentials (hostname, username, password, database name).
 4. Start a local development server: Use a tool like XAMPP or MAMP to set
